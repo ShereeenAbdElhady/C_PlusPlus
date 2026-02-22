@@ -34,4 +34,9 @@ The concepts are:
      > Delete index
      > Read index
      > Read first
-     >  Read last 
+     >  Read last
+     
+6- Multithreading
+7- STL
+8- Design Patterns
+     
